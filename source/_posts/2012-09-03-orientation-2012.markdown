@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Orientation 2012"
+date: 2012-09-03 19:41
+comments: true
+categories: 
+---
+
+A warm welcome to all our new incoming students and welcome back to all returning students! We hope you have a great year at Ryerson!
+If you have any questions don't hesitate to get in touch with us in any number of ways:
+
+- Email: cscu@scs.ryerson.ca
+- Twitter: [@ryecscu](http://twitter.com/ryecscu)
+- Facebook: [ComputerScience CourseUnion](http://www.facebook.com/ryerson.cscu) 
+- Office: ENG111
+- Phone: (416) 979-5000 x6974
+
+On August 27th we had our *Upper Year Information Session* as well as our *First Year Academic Orientation*.
+
+For those that were unable to attend the sessions, some important tidbits are:
+
+- No labs the first week of classes, *EXCEPT* you should attend your CPS109 lab the first week of classes where you will get set up with your scs.ryerson.ca account.
+- The Computer Science Department office is on the second floor at ENG287, which is at the north end of the building.
+- The Computer Science Course Union office is on the first floor at ENG111, which is at the sounth end of the building.
+- Contact information for the department staff can be found [here](http://www.scs.ryerson.ca/staff.php) 
+- Important dates you should be aware of for the coming semester are [here](http://www.ryerson.ca/calendar/2012-2013/pg12.html) 
+
+Below I have attached the slides used during the presentations.
+
+- [First Year Academic Orientation Slides](/files/Computer Science Orientation 2012 \(1st year\).ppt) 
+- [Upper Year Information Session Slides](/files/Computer Science Orientation 2012 \(higher years\).ppt) 
+
