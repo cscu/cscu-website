@@ -20,6 +20,7 @@ On August 27th we had our *Upper Year Information Session* as well as our *First
 For those that were unable to attend the sessions, some important tidbits are:
 
 - No labs the first week of classes, *EXCEPT* you should attend your CPS109 lab the first week of classes where you will get set up with your scs.ryerson.ca account.
+- Free CompSci T-Shirts for first year students can be picked up from the department office.
 - The Computer Science Department office is on the second floor at ENG287, which is at the north end of the building.
 - The Computer Science Course Union office is on the first floor at ENG111, which is at the sounth end of the building.
 - Contact information for the department staff can be found [here](http://www.scs.ryerson.ca/staff.php) 
