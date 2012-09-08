@@ -15,7 +15,7 @@ Email: cscu (at) scs (dot) ryerson (dot) ca
 - **4th Year Rep**: Matthew Martire
 - **3rd Year Rep**: Sundar Murugesan
 
-# Office Hours
+# ENG111 Office Hours
 ## Monday
 - 12:00pm - 1:00pm: Steven Park
 - 1:30pm - 2:30pm: Mattew Martire
