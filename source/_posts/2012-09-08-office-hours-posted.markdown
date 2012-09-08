@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-CSCU Office hours are now posted at http://www.scs.ryerson.ca/~cscu/contact-info/ and are also on the CSCU calendar that can be found at http://www.scs.ryerson.ca/~cscu/calendar/ 
+CSCU Office hours are now posted on the [Contact Info](http://www.scs.ryerson.ca/~cscu/contact-info/) page and are also on the CSCU calendar that can be found [here](http://www.scs.ryerson.ca/~cscu/calendar/).
