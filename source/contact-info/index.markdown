@@ -17,7 +17,6 @@ Email: cscu (at) scs (dot) ryerson (dot) ca
 
 # ENG111 Office Hours
 ## Monday
-- 12:00pm - 1:00pm: Steven Park
 - 1:30pm - 2:30pm: Mattew Martire
 
 ## Tuesday
@@ -28,3 +27,6 @@ Email: cscu (at) scs (dot) ryerson (dot) ca
 
 ## Thursday
 - 12:00pm - 1:00pm: Meeting
+
+## Friday
+- 1:30pm - 2:30pm: Steven Park
