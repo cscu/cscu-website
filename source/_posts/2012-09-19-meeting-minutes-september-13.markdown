@@ -6,7 +6,7 @@ comments: true
 categories: meetings
 ---
 
-The meeting minutes for our September 13^th meeting are now posted [here](meeting-minutes).
+The meeting minutes for our September 13^th meeting are now posted [here](/meeting-minutes).
 
 They are also reproduced below:
 

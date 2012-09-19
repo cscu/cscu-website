@@ -3,10 +3,10 @@ layout: post
 title: "Meeting Minutes - September 6"
 date: 2012-09-19 13:02
 comments: true
-categories: 
+categories: meetings
 ---
 
-The meeting minutes for our September 6^th meeting are now posted [here](meeting-minutes).
+The meeting minutes for our September 6^th meeting are now posted [here](/meeting-minutes).
 
 They are also reproduced below:
 
