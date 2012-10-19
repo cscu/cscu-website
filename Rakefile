@@ -111,6 +111,37 @@ task :new_post, :title do |t, args|
   end
 end
 
+desc "Add meeting minutes"
+task :add_minutes, :date, :google_doc_id do |t, args|
+  raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
+  mkdir_p "#{source_dir}/#{posts_dir}"
+  title = "Meeting Minutes - #{args.date}"
+  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+  puts "Creating new post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
+    post.puts "comments: true"
+    post.puts "categories: meetings"
+    post.puts "---"
+    post.puts "The meeting minutes for our #{args.date} meeting are now posted [here](/meeting-minutes)."
+    post.puts "\nThe are also reproduced below:\n"
+    post.puts "---"
+    post.puts "<iframe style=\"width:100%;\" src=\"https://docs.google.com/document/pub?id=#{args.google_doc_id}&amp;embedded=true\"></iframe>"
+  end
+  meetings_file = "#{source_dir}/meeting-minutes/index.markdown"
+  puts args
+  puts "Adding line to #{meetings_file}"
+  open(meetings_file, 'a') do |meetings|
+    meetings.puts "- [#{args.date}](https://docs.google.com/document/pub?id=#{args.google_doc_id})"
+  end
+end
+
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
 desc "Create a new page in #{source_dir}/(filename)/index.#{new_page_ext}"
 task :new_page, :filename do |t, args|
