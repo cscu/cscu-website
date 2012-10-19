@@ -130,8 +130,8 @@ task :add_minutes, :date, :google_doc_id do |t, args|
     post.puts "categories: meetings"
     post.puts "---"
     post.puts "The meeting minutes for our #{args.date} meeting are now posted [here](/meeting-minutes)."
-    post.puts "\nThe are also reproduced below:\n"
-    post.puts "---"
+    post.puts "\nThe are also reproduced below:\n\n"
+    post.puts "---\n"
     post.puts "<iframe style=\"width:100%;\" src=\"https://docs.google.com/document/pub?id=#{args.google_doc_id}&amp;embedded=true\"></iframe>"
   end
   meetings_file = "#{source_dir}/meeting-minutes/index.markdown"
