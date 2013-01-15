@@ -20,19 +20,17 @@ Email: cscu (at) scs (dot) ryerson (dot) ca
 # ENG111 Office Hours
 ## Monday
 - 10:00am - 11:00am: Vera Parilova
-- 1:30pm - 2:30pm: Mattew Martire
+- 12:00pm - 1:00pm: Greg Leaver
 
 ## Tuesday
-- 10:00am - 11:00am: Sundar Murugesan
 - 12:00pm - 1:00pm: Yomna Aly
+- 3:00pm - 4:00pm: Meeting
 
 ## Wednesday
-- 11:00am - 12:00pm: Greg Leaver
+- 12:00pm - 1:00pm: Matthew Martire
 
 ## Thursday
-- 12:00pm - 1:00pm: Meeting
-- 2:00pm - 3:00pm: Peter Altosaar
+- 11:00am - 12:00pm: Peter Altosaar
 
 ## Friday
-- 10:00am - 11:00am: Nitish Mehta
-- 1:30pm - 2:30pm: Steven Park
+- 1:00pm - 2:00pm: Nitish Mehta
