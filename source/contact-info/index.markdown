@@ -17,6 +17,8 @@ Email: cscu (at) scs (dot) ryerson (dot) ca
 - **2^nd Year Rep**: Peter Altosaar
 - **1^st Year Rep**: Vera Parilova
 
+For a description of each executive position, see the [positions](/positions) page.
+
 # ENG111 Office Hours
 ## Monday
 - 10:00am - 11:00am: Vera Parilova
