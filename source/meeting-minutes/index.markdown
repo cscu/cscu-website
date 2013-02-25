@@ -15,3 +15,4 @@ See all posts about meetings [here](/blog/categories/meetings).
 - [October 25^th, 2012](https://docs.google.com/document/pub?id=1yL6mO0J8Z2_1NK39YWdt4FK399zeaIj6HC28CCdoA0w)
 - [November 8^th, 2012](https://docs.google.com/document/pub?id=1hMbNz0cjxdXYmjqhe3ocIHeEnsWTx9xab2bWpsgomWI)
 - [January 15^th, 2013](https://docs.google.com/document/pub?id=1MgitEQ7kibnpzQov8Wnj6Bx0X7HxGtGFRQYhRffdspA)
+- [January 30^th, 2013](https://docs.google.com/document/pub?id=1yw1PnJ1KdFX1pb8yflucbl2T2Ci4ti2FNf0rlpJ70qM)
