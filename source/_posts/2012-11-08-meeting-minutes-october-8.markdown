@@ -7,7 +7,7 @@ categories: meetings
 ---
 The meeting minutes for our November 8^th meeting are now posted [here](/meeting-minutes).
 
-The are also reproduced below:
+They are also reproduced below:
 
 ---
 <iframe style="width:100%;" src="https://docs.google.com/document/pub?id=1hMbNz0cjxdXYmjqhe3ocIHeEnsWTx9xab2bWpsgomWI&amp;embedded=true"></iframe>

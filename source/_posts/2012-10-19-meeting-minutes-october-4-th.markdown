@@ -7,7 +7,7 @@ categories: meetings
 ---
 The meeting minutes for our October 4^th meeting are now posted [here](/meeting-minutes).
 
-The are also reproduced below:
+They are also reproduced below:
 
 ---
 
