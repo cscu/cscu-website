@@ -3,7 +3,7 @@ layout: post
 title: "Meeting Minutes - February 6, 2013"
 date: 2013-02-06
 comments: true
-categories: meetings
+categories: meetings elections
 ---
 The meeting minutes for our February 6^th meeting are now posted [here](/meeting-minutes).
 
