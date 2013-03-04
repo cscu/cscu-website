@@ -24,7 +24,7 @@ For a description of each executive position, see the [positions](/positions) pa
 - 10:00am - 11:00am: Vera Parilova
 
 ## Tuesday
-- 12:00pm - 1:00pm: Yomna Aly
+- 1:00pm - 2:00pm: Yomna Aly
 - 3:00pm - 4:00pm: Meeting
 
 ## Wednesday
