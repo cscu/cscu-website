@@ -4,9 +4,9 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "cscu@moon.scs.ryerson.ca"
+ssh_user       = "cscuweb@odin.cscu.scs.ryerson.ca"
 ssh_port       = "22"
-document_root  = "~/public_html/"
+document_root  = "/var/www"
 rsync_delete   = true
 deploy_default = "rsync"
 
