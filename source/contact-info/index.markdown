@@ -8,31 +8,25 @@ footer: true
 
 Email: cscu (at) scs (dot) ryerson (dot) ca
 # CSCU Executive
-- **President**: Steven Park
-- **VP Academic**: Greg Leaver
+- **President**: Peter Altosaar
+- **VP Academic**: David Tenty
 - **VP Social**: Nitish Mehta
-- **VP Communications**: Yomna Aly
-- **4^th Year Rep**: Matthew Martire
-- **3^rd Year Rep**: Sundar Murugesan
-- **2^nd Year Rep**: Peter Altosaar
-- **1^st Year Rep**: Vera Parilova
+- **4^th Year Rep**: Ian Nastajus
+- **3^rd Year Rep**: Yomna Aly
+- **2^nd Year Rep**: Vera Parilova
+- **1^st Year Rep**: Vacant
 
 For a description of each executive position, see the [positions](/positions) page.
 
 # ENG111 Office Hours
 ## Monday
-- 10:00am - 11:00am: Vera Parilova
 
 ## Tuesday
 - 1:00pm - 2:00pm: Yomna Aly
-- 3:00pm - 4:00pm: Meeting
+- 3:00pm - 4:00pm: David Tenty
 
 ## Wednesday
-- 12:00pm - 1:00pm: Matthew Martire
-- 3:00pm - 4:00pm: Greg Leaver
 
 ## Thursday
-- 11:00am - 12:00pm: Peter Altosaar
 
 ## Friday
-- 1:00pm - 2:00pm: Nitish Mehta
