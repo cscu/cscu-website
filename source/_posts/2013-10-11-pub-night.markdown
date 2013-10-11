@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Pub Night!"
+date: 2013-10-11
+comments: true
+categories: 
+---
+
+The CSCU will be having a pub night tonight from 5pm to 10pm at the Ram in the Rye.
+
+[Google+ Invent Here](https://plus.google.com/u/0/b/102048366056697845921/events/c81p98k4locjddovk68dg1l5i1c) 
