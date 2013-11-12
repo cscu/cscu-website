@@ -14,7 +14,7 @@ Email: cscu (at) scs (dot) ryerson (dot) ca
 - **4^th Year Rep**: Ian Nastajus
 - **3^rd Year Rep**: Yomna Aly
 - **2^nd Year Rep**: Vera Parilova
-- **1^st Year Rep**: Vacant
+- **1^st Year Rep**: Aumkar Prajapati
 
 For a description of each executive position, see the [positions](/positions) page.
 
