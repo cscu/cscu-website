@@ -5,4 +5,4 @@ date: 2014-02-05 11:00
 comments: true
 categories: 
 ---
-The CSCU had a very sucessful Git Talk Tuesday Febuary 4th. For those unable to attend or who want the slides, they are [here](files/GitTalk.pdf).
+The CSCU had a very sucessful Git Talk Tuesday Febuary 4th. For those unable to attend or who want the slides, they are [here](/files/GitTalk.pdf).

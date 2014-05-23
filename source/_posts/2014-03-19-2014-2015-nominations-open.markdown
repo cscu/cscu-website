@@ -1,0 +1,25 @@
+---
+layout: post
+title: "2014-2015 Nominations Open"
+date: 2014-03-19 18:00
+comments: true
+categories: elections
+---
+
+The nominations for the *CSCU Executive Elections* are now open!
+
+You can download the [nomination form][nom-form] from the [files page](/files).
+Nominations are open until March 27^th at 6:00pm.
+You can submit your nomination form to any [cscu member][contact] during that period. To find times when the CSCU Office ENG111 will be open see [here][contact].
+
+You may only run for one position. For a list of positions, see [here](/positions).
+All full-time undergraduate computer science students can run for any of the President/VP positions. To run for a year rep position you must be in that year during the 2014-2015 school year.
+
+For a more detailed description of the positions please see the [CSCU Constitution](/files) and the [DCSC Bylaws](http://www.scs.ryerson.ca/council/site.php?page=bylaws).
+
+The voting period will be on March 28th, 2014 with hours TBA.
+
+If you have any questions or concerns please contact CSCU at <cscu@scs.ryerson.ca> or Peter Altosaar at <paltosaa@scs.ryerson.ca>.
+
+[nom-form]: /files/CSCU_NOMINATION_FORM.pdf
+[contact]: /contact-info
