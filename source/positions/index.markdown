@@ -21,7 +21,7 @@ Leading the CSCU to a better, brighter future!
 Responsible for supporting the academic life of undergraduate computer sciences students at Ryerson.
 
 - Is an executive officer of the course union.
-- Is responsible for maintaining the [CSCU Exam Bank](http://exams.ryehigh.ca) 
+- Is responsible for maintaining the [CSCU Exam Bank](http://exams.cscu.scs.ryerson.ca) 
 - Is a voting member of the *[Department of Computer Science Council][dcsc]*.
 
 **Current:** Greg Leaver
